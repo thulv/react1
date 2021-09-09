@@ -1,0 +1,26 @@
+[
+    { 
+        "id": 1,
+        "name": "Đào Minh Tuấn 1",
+        "phoneNumber": "0356232622",
+        "permissionId": 1
+    },
+    { 
+        "id": 2,
+        "name": "Đào Minh Tuấn 2",
+        "phoneNumber": "0356232652",
+        "permissionId": 2
+    },
+    { 
+        "id": 3,
+        "name": "Đào Minh Tuấn 3",
+        "phoneNumber": "0356232655",
+        "permissionId": 3
+    },
+    { 
+        "id": 4,
+        "name": "Đào Minh Tuấn 4",
+        "phoneNumber": "0356232633",
+        "permissionId": 1
+    }
+]
